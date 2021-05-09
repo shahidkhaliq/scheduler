@@ -9,7 +9,7 @@ Start the Rails backend server.
   `cd scheduler-be`,
   `bundle install` (install gems) and
   `bin/rails db:setup` (set up and seed the database).
-- Start the server by running `bin/rails`.
+- Start the server by running `bin/rails server`.
 
 In a second terminal, start the JS/React/Redux frontend.
 
