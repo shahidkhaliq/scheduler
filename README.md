@@ -14,6 +14,7 @@ Start the Rails backend server.
 In a second terminal, start the JS/React/Redux frontend.
 
 - `cd scheduler-fe`
+- `yarn install`
 - `PORT=3001 yarn start`
 
 ## Cutting corners / Design decisions
