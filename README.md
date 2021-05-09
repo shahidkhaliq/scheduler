@@ -6,9 +6,9 @@ Start the Rails backend server.
 
 - Follow the official Rails documentation [here](https://guides.rubyonrails.org/getting_started.html#creating-a-new-rails-project) to get set up. Install Ruby, sqlite3, yarn, node etc.
 - Clone this repository and run:
-  `cd scheduler-be`
-  `bundle install` (install gems)
-  `bin/rails db:setup` (set up and seed the database)
+  `cd scheduler-be`,
+  `bundle install` (install gems) and
+  `bin/rails db:setup` (set up and seed the database).
 - Start the server by running `bin/rails`.
 
 In a second terminal, start the JS/React/Redux frontend.
