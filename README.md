@@ -17,6 +17,11 @@ In a second terminal, start the JS/React/Redux frontend.
 - `yarn install`
 - `PORT=3001 yarn start`
 
+## Core code files
+- [DB seed](https://github.com/shahidkhaliq/scheduler/blob/main/scheduler-be/db/seeds.rb)
+- [Shifts controller](https://github.com/shahidkhaliq/scheduler/blob/main/scheduler-be/app/controllers/shifts_controller.rb)
+- [React App component](https://github.com/shahidkhaliq/scheduler/blob/main/scheduler-fe/src/App.js)
+
 ## Cutting corners / Design decisions
 
 - Testing: Need to add tests for both the frontend and the backend.
