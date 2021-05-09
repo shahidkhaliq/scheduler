@@ -1,3 +1,5 @@
+![](scheduler.gif)
+
 ## Getting Started
 
 Start the Rails backend server.
