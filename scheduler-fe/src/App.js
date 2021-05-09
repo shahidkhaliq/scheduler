@@ -60,7 +60,7 @@ const Shift = ({ shift }) =>
 const App = () => {
   const classes = useStyles();
   const [data, setData] = useState();
-  const [sortBy, setSortBy] = useState("last_name");
+  const [sortBy, setSortBy] = useState("first_name");
 
   useEffect(() => {
     async function fetchData() {
